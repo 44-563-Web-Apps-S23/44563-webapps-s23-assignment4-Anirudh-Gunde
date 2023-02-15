@@ -14,10 +14,22 @@
     font-family:cursive;
     font-size: 12;
     }
+.joel:hover {  text-shadow: 2px 2px;
+                color:brown;
+                filter: blur(0.2px);
+                border-style: dotted;
+                border-left: 6px solid red;
+            }
 .andrew {color:brown;
         font-family:cursive;
         font-size: 12;
         }
+.andrew:hover {  text-shadow: 2px 2px;
+                color:blueviolet;
+                filter: blur(0.2px);
+                border-style: dotted;
+                border-left: 6px solid red;
+            }
 tr:nth-child(odd){ 
     background-color:rgb(187, 213, 214);
     color:black;}

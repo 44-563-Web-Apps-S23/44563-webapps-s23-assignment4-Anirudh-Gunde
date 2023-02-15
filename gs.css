@@ -18,3 +18,22 @@
         font-family:cursive;
         font-size: 12;
         }
+tr:nth-child(odd){ 
+    background-color:rgb(187, 213, 214);
+    color:black;}
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:cadetblue;
+    color: white;
+        }
+td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left; 
+          }
+table {
+            margin: 10px;
+        }
+            
